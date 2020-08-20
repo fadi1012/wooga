@@ -1,0 +1,1320 @@
+{
+    "ladybug": {
+        "item": {
+            "left": 798,
+            "top": 444,
+            "width": 36,
+            "height": 44
+        },
+        "cast": {
+            "left": 801,
+            "top": 452,
+            "width": 31,
+            "height": 35
+        }
+    },
+    "bumblebee": {
+        "item": {
+            "left": 870,
+            "top": 360,
+            "width": 50,
+            "height": 45
+        },
+        "cast": {
+            "left": 874,
+            "top": 367,
+            "width": 40,
+            "height": 40
+        }
+    },
+    "oranges": {
+        "item": {
+            "left": 662,
+            "top": 426,
+            "width": 135,
+            "height": 103
+        },
+        "cast": {
+            "left": 667,
+            "top": 442,
+            "width": 126,
+            "height": 93
+        },
+        "cover": {
+            "left": 683,
+            "top": 454,
+            "width": 134,
+            "height": 100
+        }
+    },
+    "papaya": {
+        "item": {
+            "left": 130,
+            "top": 426,
+            "width": 72,
+            "height": 55
+        },
+        "cast": {
+            "left": 128,
+            "top": 442,
+            "width": 79,
+            "height": 41
+        }
+    },
+    "purse": {
+        "item": {
+            "left": 267,
+            "top": 296,
+            "width": 61,
+            "height": 47
+        },
+        "cast": {
+            "left": 268,
+            "top": 303,
+            "width": 53,
+            "height": 46
+        },
+        "cover": {
+            "left": 259,
+            "top": 286,
+            "width": 12,
+            "height": 52
+        }
+    },
+    "price_twenty_five_cent": {
+        "item": {
+            "left": 318,
+            "top": 263,
+            "width": 34,
+            "height": 39
+        },
+        "cast": {
+            "left": 317,
+            "top": 265,
+            "width": 11,
+            "height": 31
+        },
+        "cover": {
+            "left": 315,
+            "top": 288,
+            "width": 42,
+            "height": 18
+        }
+    },
+    "pea_pods": {
+        "item": {
+            "left": 803,
+            "top": 386,
+            "width": 105,
+            "height": 60
+        },
+        "cast": {
+            "left": 814,
+            "top": 402,
+            "width": 76,
+            "height": 52
+        }
+    },
+    "clothes_pin": {
+        "item": {
+            "left": 574,
+            "top": 439,
+            "width": 59,
+            "height": 51
+        },
+        "cast": {
+            "left": 576,
+            "top": 458,
+            "width": 42,
+            "height": 21
+        },
+        "cover": {
+            "left": 608,
+            "top": 480,
+            "width": 35,
+            "height": 20
+        }
+    },
+    "lock": {
+        "item": {
+            "left": 183,
+            "top": 340,
+            "width": 33,
+            "height": 52
+        },
+        "cast": {
+            "left": 184,
+            "top": 337,
+            "width": 29,
+            "height": 18
+        }
+    },
+    "jug": {
+        "item": {
+            "left": 137,
+            "top": 239,
+            "width": 65,
+            "height": 100
+        },
+        "cast": {
+            "left": 142,
+            "top": 299,
+            "width": 67,
+            "height": 44
+        }
+    },
+    "coins": {
+        "item": {
+            "left": 198,
+            "top": 326,
+            "width": 61,
+            "height": 17
+        },
+        "cast": {
+            "left": 196,
+            "top": 334,
+            "width": 64,
+            "height": 12
+        }
+    },
+    "machete": {
+        "item": {
+            "left": 790,
+            "top": 293,
+            "width": 121,
+            "height": 157
+        },
+        "cast": {
+            "left": 807,
+            "top": 319,
+            "width": 87,
+            "height": 103
+        },
+        "cover": {
+            "left": 775,
+            "top": 403,
+            "width": 82,
+            "height": 58
+        }
+    },
+    "pepper_bunch": {
+        "item": {
+            "left": 236,
+            "top": 73,
+            "width": 45,
+            "height": 140
+        },
+        "cast": {
+            "left": 239,
+            "top": 71,
+            "width": 29,
+            "height": 146
+        }
+    },
+    "broom": {
+        "item": {
+            "left": 189,
+            "top": 359,
+            "width": 72,
+            "height": 120
+        },
+        "cast": {
+            "left": 201,
+            "top": 386,
+            "width": 45,
+            "height": 95
+        },
+        "cover": {
+            "left": 178,
+            "top": 349,
+            "width": 87,
+            "height": 141
+        }
+    },
+    "cuban_finch": {
+        "item": {
+            "left": 172,
+            "top": 182,
+            "width": 68,
+            "height": 35
+        },
+        "cast": {
+            "left": 186,
+            "top": 200,
+            "width": 32,
+            "height": 17
+        },
+        "cover": {
+            "left": 206,
+            "top": 209,
+            "width": 16,
+            "height": 11
+        }
+    },
+    "bag": {
+        "item": {
+            "left": 138,
+            "top": 369,
+            "width": 76,
+            "height": 67
+        },
+        "cast": {
+            "left": 187,
+            "top": 390,
+            "width": 30,
+            "height": 50
+        },
+        "cover": {
+            "left": 125,
+            "top": 407,
+            "width": 69,
+            "height": 40
+        }
+    },
+    "slingshot": {
+        "item": {
+            "left": 733,
+            "top": 310,
+            "width": 99,
+            "height": 92
+        },
+        "cast": {
+            "left": 745,
+            "top": 340,
+            "width": 83,
+            "height": 64
+        },
+        "cover": {
+            "left": 744,
+            "top": 345,
+            "width": 92,
+            "height": 66
+        }
+    },
+    "heart": {
+        "item": {
+            "left": 714,
+            "top": 346,
+            "width": 45,
+            "height": 40
+        },
+        "cover": {
+            "left": 710,
+            "top": 379,
+            "width": 40,
+            "height": 19
+        }
+    },
+    "weight": {
+        "item": {
+            "left": 510,
+            "top": 248,
+            "width": 36,
+            "height": 40
+        },
+        "cast": {
+            "left": 502,
+            "top": 261,
+            "width": 45,
+            "height": 29
+        },
+        "cover": {
+            "left": 488,
+            "top": 261,
+            "width": 23,
+            "height": 33
+        }
+    },
+    "butterfly": {
+        "item": {
+            "left": 675,
+            "top": 87,
+            "width": 47,
+            "height": 38
+        },
+        "cast": {
+            "left": 673,
+            "top": 88,
+            "width": 20,
+            "height": 27
+        }
+    },
+    "monkey": {
+        "item": {
+            "left": 346,
+            "top": 365,
+            "width": 115,
+            "height": 94
+        },
+        "cast": {
+            "left": 333,
+            "top": 377,
+            "width": 86,
+            "height": 84
+        }
+    },
+    "banana_peel": {
+        "item": {
+            "left": 446,
+            "top": 442,
+            "width": 80,
+            "height": 47
+        },
+        "cast": {
+            "left": 440,
+            "top": 466,
+            "width": 86,
+            "height": 27
+        }
+    },
+    "swatter": {
+        "item": {
+            "left": 157,
+            "top": 224,
+            "width": 118,
+            "height": 83
+        },
+        "cast": {
+            "left": 183,
+            "top": 247,
+            "width": 92,
+            "height": 67
+        },
+        "cover": {
+            "left": 258,
+            "top": 246,
+            "width": 13,
+            "height": 72
+        }
+    },
+    "beads": {
+        "item": {
+            "left": 605,
+            "top": 398,
+            "width": 92,
+            "height": 66
+        },
+        "cast": {
+            "left": 605,
+            "top": 401,
+            "width": 92,
+            "height": 64
+        },
+        "cover": {
+            "left": 615,
+            "top": 417,
+            "width": 90,
+            "height": 53
+        }
+    },
+    "grape": {
+        "item": {
+            "left": 443,
+            "top": 99,
+            "width": 44,
+            "height": 64
+        }
+    },
+    "skein_of_twine": {
+        "item": {
+            "left": 444,
+            "top": 263,
+            "width": 54,
+            "height": 57
+        },
+        "cast": {
+            "left": 438,
+            "top": 270,
+            "width": 40,
+            "height": 30
+        }
+    },
+    "basket": {
+        "item": {
+            "left": 139,
+            "top": 107,
+            "width": 66,
+            "height": 77
+        },
+        "cast": {
+            "left": 154,
+            "top": 178,
+            "width": 34,
+            "height": 10
+        }
+    },
+    "tomato": {
+        "item": {
+            "left": 821,
+            "top": 263,
+            "width": 80,
+            "height": 65
+        },
+        "cast": {
+            "left": 824,
+            "top": 268,
+            "width": 78,
+            "height": 46
+        },
+        "cover": {
+            "left": 815,
+            "top": 296,
+            "width": 88,
+            "height": 43
+        }
+    },
+    "gear": {
+        "item": {
+            "left": 436,
+            "top": 394,
+            "width": 30,
+            "height": 51
+        },
+        "cast": {
+            "left": 421,
+            "top": 407,
+            "width": 44,
+            "height": 38
+        }
+    },
+    "hook": {
+        "item": {
+            "left": 726,
+            "top": 287,
+            "width": 83,
+            "height": 75
+        },
+        "cast": {
+            "left": 768,
+            "top": 305,
+            "width": 13,
+            "height": 18
+        },
+        "cover": {
+            "left": 715,
+            "top": 315,
+            "width": 103,
+            "height": 57
+        }
+    },
+    "number_seventy_six": {
+        "item": {
+            "left": 162,
+            "top": 204,
+            "width": 35,
+            "height": 22
+        }
+    },
+    "step_ins": {
+        "item": {
+            "left": 459,
+            "top": 419,
+            "width": 62,
+            "height": 31
+        },
+        "cast": {
+            "left": 457,
+            "top": 439,
+            "width": 62,
+            "height": 12
+        },
+        "cover": {
+            "left": 449,
+            "top": 408,
+            "width": 45,
+            "height": 45
+        }
+    },
+    "coffee_mill": {
+        "item": {
+            "left": 356,
+            "top": 228,
+            "width": 71,
+            "height": 86
+        },
+        "cast": {
+            "left": 349,
+            "top": 284,
+            "width": 65,
+            "height": 36
+        }
+    },
+    "apron": {
+        "item": {
+            "left": 325,
+            "top": 180,
+            "width": 60,
+            "height": 81
+        },
+        "cast": {
+            "left": 326,
+            "top": 181,
+            "width": 54,
+            "height": 51
+        },
+        "cover": {
+            "left": 334,
+            "top": 224,
+            "width": 60,
+            "height": 83
+        }
+    },
+    "scoop": {
+        "item": {
+            "left": 500,
+            "top": 320,
+            "width": 44,
+            "height": 59
+        },
+        "cast": {
+            "left": 500,
+            "top": 353,
+            "width": 26,
+            "height": 16
+        },
+        "cover": {
+            "left": 494,
+            "top": 354,
+            "width": 34,
+            "height": 32
+        }
+    },
+    "fan": {
+        "item": {
+            "left": 277,
+            "top": 205,
+            "width": 52,
+            "height": 60
+        },
+        "cast": {
+            "left": 274,
+            "top": 209,
+            "width": 53,
+            "height": 56
+        }
+    },
+    "bucket": {
+        "item": {
+            "left": 430,
+            "top": 336,
+            "width": 64,
+            "height": 69
+        },
+        "cover": {
+            "left": 425,
+            "top": 328,
+            "width": 72,
+            "height": 88
+        }
+    },
+    "waterin_can": {
+        "item": {
+            "left": 391,
+            "top": 102,
+            "width": 40,
+            "height": 74
+        },
+        "cover": {
+            "left": 399,
+            "top": 102,
+            "width": 49,
+            "height": 9
+        }
+    },
+    "stool": {
+        "item": {
+            "left": 637,
+            "top": 344,
+            "width": 79,
+            "height": 79
+        },
+        "cast": {
+            "left": 674,
+            "top": 397,
+            "width": 42,
+            "height": 15
+        },
+        "cover": {
+            "left": 633,
+            "top": 351,
+            "width": 93,
+            "height": 83
+        }
+    },
+    "cucumber": {
+        "item": {
+            "left": 266,
+            "top": 377,
+            "width": 99,
+            "height": 26
+        },
+        "cast": {
+            "left": 284,
+            "top": 379,
+            "width": 82,
+            "height": 25
+        },
+        "cover": {
+            "left": 256,
+            "top": 380,
+            "width": 119,
+            "height": 35
+        }
+    },
+    "gecko": {
+        "item": {
+            "left": 563,
+            "top": 340,
+            "width": 53,
+            "height": 36
+        },
+        "cast": {
+            "left": 564,
+            "top": 345,
+            "width": 41,
+            "height": 31
+        }
+    },
+    "pots": {
+        "item": {
+            "left": 452,
+            "top": 101,
+            "width": 60,
+            "height": 143
+        },
+        "cast": {
+            "left": 471,
+            "top": 121,
+            "width": 36,
+            "height": 145
+        },
+        "cover": {
+            "left": 470,
+            "top": 89,
+            "width": 36,
+            "height": 22
+        }
+    },
+    "teapot": {
+        "item": {
+            "left": 403,
+            "top": 229,
+            "width": 49,
+            "height": 65
+        },
+        "cover": {
+            "left": 393,
+            "top": 270,
+            "width": 64,
+            "height": 34
+        }
+    },
+    "mortir": {
+        "item": {
+            "left": 480,
+            "top": 231,
+            "width": 45,
+            "height": 28
+        },
+        "cast": {
+            "left": 483,
+            "top": 252,
+            "width": 33,
+            "height": 9
+        },
+        "cover": {
+            "left": 474,
+            "top": 225,
+            "width": 56,
+            "height": 29
+        }
+    },
+    "birdcage": {
+        "item": {
+            "left": 759,
+            "top": 9,
+            "width": 69,
+            "height": 149
+        },
+        "cast": {
+            "left": 790,
+            "top": 0,
+            "width": 17,
+            "height": 12
+        },
+        "cover": {
+            "left": 749,
+            "top": 35,
+            "width": 85,
+            "height": 111
+        }
+    },
+    "copper_bowl": {
+        "item": {
+            "left": 746,
+            "top": 245,
+            "width": 93,
+            "height": 55
+        },
+        "cast": {
+            "left": 759,
+            "top": 265,
+            "width": 81,
+            "height": 27
+        },
+        "cover": {
+            "left": 764,
+            "top": 270,
+            "width": 78,
+            "height": 39
+        }
+    },
+    "funnel": {
+        "item": {
+            "left": 391,
+            "top": 203,
+            "width": 37,
+            "height": 32
+        },
+        "cast": {
+            "left": 388,
+            "top": 208,
+            "width": 41,
+            "height": 29
+        },
+        "cover": {
+            "left": 381,
+            "top": 204,
+            "width": 31,
+            "height": 36
+        }
+    },
+    "tray": {
+        "item": {
+            "left": 524,
+            "top": 293,
+            "width": 63,
+            "height": 49
+        },
+        "cast": {
+            "left": 520,
+            "top": 296,
+            "width": 66,
+            "height": 48
+        },
+        "cover": {
+            "left": 515,
+            "top": 282,
+            "width": 42,
+            "height": 23
+        }
+    },
+    "spices": {
+        "item": {
+            "left": 552,
+            "top": 249,
+            "width": 50,
+            "height": 26
+        },
+        "cast": {
+            "left": 553,
+            "top": 269,
+            "width": 35,
+            "height": 9
+        },
+        "cover": {
+            "left": 542,
+            "top": 249,
+            "width": 14,
+            "height": 28
+        }
+    },
+    "stone": {
+        "item": {
+            "left": 532,
+            "top": 388,
+            "width": 48,
+            "height": 41
+        },
+        "cast": {
+            "left": 517,
+            "top": 406,
+            "width": 65,
+            "height": 26
+        }
+    },
+    "puddle": {
+        "item": {
+            "left": 506,
+            "top": 442,
+            "width": 92,
+            "height": 43
+        },
+        "cast": {
+            "left": 498,
+            "top": 446,
+            "width": 91,
+            "height": 38
+        },
+        "cover": {
+            "left": 516,
+            "top": 440,
+            "width": 87,
+            "height": 62
+        }
+    },
+    "hole": {
+        "item": {
+            "left": 498,
+            "top": 391,
+            "width": 35,
+            "height": 37
+        },
+        "cast": {
+            "left": 496,
+            "top": 408,
+            "width": 37,
+            "height": 21
+        }
+    },
+    "bunchcoconuts": {
+        "item": {
+            "left": 568,
+            "top": 109,
+            "width": 41,
+            "height": 57
+        },
+        "cast": {
+            "left": 568,
+            "top": 111,
+            "width": 25,
+            "height": 9
+        },
+        "cover": {
+            "left": 583,
+            "top": 132,
+            "width": 33,
+            "height": 22
+        }
+    },
+    "shell": {
+        "item": {
+            "left": 591,
+            "top": 370,
+            "width": 50,
+            "height": 42
+        },
+        "cast": {
+            "left": 586,
+            "top": 372,
+            "width": 57,
+            "height": 45
+        }
+    },
+    "food_print": {
+        "item": {
+            "left": 555,
+            "top": 414,
+            "width": 50,
+            "height": 33
+        }
+    },
+    "staw_hat": {
+        "item": {
+            "left": 250,
+            "top": 434,
+            "width": 93,
+            "height": 61
+        },
+        "cast": {
+            "left": 249,
+            "top": 431,
+            "width": 81,
+            "height": 73
+        },
+        "cover": {
+            "left": 243,
+            "top": 416,
+            "width": 34,
+            "height": 79
+        }
+    },
+    "cart": {
+        "item": {
+            "left": 647,
+            "top": 284,
+            "width": 110,
+            "height": 82
+        },
+        "cast": {
+            "left": 642,
+            "top": 333,
+            "width": 114,
+            "height": 63
+        },
+        "cover": {
+            "left": 724,
+            "top": 291,
+            "width": 39,
+            "height": 58
+        }
+    },
+    "shovel": {
+        "item": {
+            "left": 635,
+            "top": 218,
+            "width": 47,
+            "height": 115
+        },
+        "cast": {
+            "left": 641,
+            "top": 261,
+            "width": 21,
+            "height": 60
+        },
+        "cover": {
+            "left": 635,
+            "top": 304,
+            "width": 54,
+            "height": 38
+        }
+    },
+    "netting": {
+        "item": {
+            "left": 585,
+            "top": 247,
+            "width": 48,
+            "height": 69
+        },
+        "cast": {
+            "left": 584,
+            "top": 247,
+            "width": 29,
+            "height": 75
+        },
+        "cover": {
+            "left": 579,
+            "top": 266,
+            "width": 61,
+            "height": 58
+        }
+    },
+    "chest": {
+        "item": {
+            "left": 556,
+            "top": 201,
+            "width": 77,
+            "height": 48
+        },
+        "cast": {
+            "left": 552,
+            "top": 233,
+            "width": 72,
+            "height": 20
+        },
+        "cover": {
+            "left": 534,
+            "top": 213,
+            "width": 37,
+            "height": 30
+        }
+    },
+    "orchid": {
+        "item": {
+            "left": 356,
+            "top": 110,
+            "width": 33,
+            "height": 37
+        },
+        "cast": {
+            "left": 356,
+            "top": 118,
+            "width": 28,
+            "height": 28
+        },
+        "cover": {
+            "left": 348,
+            "top": 105,
+            "width": 35,
+            "height": 10
+        }
+    },
+    "knittedblanket": {
+        "item": {
+            "left": 807,
+            "top": 178,
+            "width": 82,
+            "height": 66
+        },
+        "cast": {
+            "left": 808,
+            "top": 184,
+            "width": 82,
+            "height": 62
+        },
+        "cover": {
+            "left": 845,
+            "top": 216,
+            "width": 60,
+            "height": 44
+        }
+    },
+    "star": {
+        "item": {
+            "left": 189,
+            "top": 78,
+            "width": 42,
+            "height": 36
+        }
+    },
+    "arrow": {
+        "item": {
+            "left": 643,
+            "top": 198,
+            "width": 49,
+            "height": 51
+        },
+        "cast": {
+            "left": 657,
+            "top": 242,
+            "width": 11,
+            "height": 6
+        },
+        "cover": {
+            "left": 654,
+            "top": 192,
+            "width": 40,
+            "height": 63
+        }
+    },
+    "wall_fountain": {
+        "item": {
+            "left": 485,
+            "top": 153,
+            "width": 45,
+            "height": 66
+        },
+        "cast": {
+            "left": 478,
+            "top": 152,
+            "width": 46,
+            "height": 73
+        },
+        "cover": {
+            "left": 479,
+            "top": 151,
+            "width": 54,
+            "height": 75
+        }
+    },
+    "ladder": {
+        "item": {
+            "left": 530,
+            "top": 147,
+            "width": 34,
+            "height": 98
+        },
+        "cast": {
+            "left": 528,
+            "top": 146,
+            "width": 21,
+            "height": 28
+        },
+        "cover": {
+            "left": 531,
+            "top": 142,
+            "width": 39,
+            "height": 108
+        }
+    },
+    "shirt": {
+        "item": {
+            "left": 678,
+            "top": 162,
+            "width": 48,
+            "height": 58
+        },
+        "cover": {
+            "left": 676,
+            "top": 166,
+            "width": 30,
+            "height": 43
+        }
+    },
+    "mirror": {
+        "item": {
+            "left": 707,
+            "top": 198,
+            "width": 30,
+            "height": 46
+        },
+        "cast": {
+            "left": 705,
+            "top": 240,
+            "width": 28,
+            "height": 5
+        }
+    },
+    "wall_lantern": {
+        "item": {
+            "left": 854,
+            "top": 108,
+            "width": 57,
+            "height": 74
+        },
+        "cast": {
+            "left": 894,
+            "top": 138,
+            "width": 31,
+            "height": 50
+        },
+        "cover": {
+            "left": 864,
+            "top": 103,
+            "width": 23,
+            "height": 18
+        }
+    },
+    "shawl": {
+        "item": {
+            "left": 563,
+            "top": 160,
+            "width": 76,
+            "height": 50
+        },
+        "cast": {
+            "left": 564,
+            "top": 166,
+            "width": 4,
+            "height": 19
+        },
+        "cover": {
+            "left": 560,
+            "top": 180,
+            "width": 80,
+            "height": 31
+        }
+    },
+    "barrils": {
+        "item": {
+            "left": 692,
+            "top": 248,
+            "width": 60,
+            "height": 49
+        },
+        "cast": {
+            "left": 692,
+            "top": 287,
+            "width": 57,
+            "height": 11
+        },
+        "cover": {
+            "left": 683,
+            "top": 237,
+            "width": 79,
+            "height": 68
+        }
+    },
+    "umbrella": {
+        "item": {
+            "left": 758,
+            "top": 192,
+            "width": 51,
+            "height": 62
+        },
+        "cover": {
+            "left": 760,
+            "top": 193,
+            "width": 80,
+            "height": 89
+        }
+    },
+    "donkey": {
+        "item": {
+            "left": 725,
+            "top": 225,
+            "width": 50,
+            "height": 42
+        },
+        "cast": {
+            "left": 723,
+            "top": 263,
+            "width": 41,
+            "height": 12
+        },
+        "cover": {
+            "left": 715,
+            "top": 221,
+            "width": 71,
+            "height": 57
+        }
+    },
+    "palm": {
+        "item": {
+            "left": 700,
+            "top": 137,
+            "width": 76,
+            "height": 105
+        },
+        "cover": {
+            "left": 695,
+            "top": 132,
+            "width": 72,
+            "height": 117
+        }
+    },
+    "awning": {
+        "item": {
+            "left": 754,
+            "top": 161,
+            "width": 52,
+            "height": 18
+        },
+        "cast": {
+            "left": 755,
+            "top": 161,
+            "width": 56,
+            "height": 19
+        }
+    },
+    "clue_sign": {
+        "item": {
+            "left": 801,
+            "top": 140,
+            "width": 47,
+            "height": 45
+        },
+        "cast": {
+            "left": 844,
+            "top": 141,
+            "width": 24,
+            "height": 63
+        },
+        "cover": {
+            "left": 811,
+            "top": 181,
+            "width": 74,
+            "height": 48
+        }
+    },
+    "clue_poster": {
+        "item": {
+            "left": 296,
+            "top": 100,
+            "width": 60,
+            "height": 86
+        },
+        "cast": {
+            "left": 295,
+            "top": 100,
+            "width": 38,
+            "height": 86
+        },
+        "cover": {
+            "left": 286,
+            "top": 100,
+            "width": 81,
+            "height": 97
+        }
+    }
+}
