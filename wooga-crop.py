@@ -1,8 +1,7 @@
 import os
 from pathlib import Path
-import subprocess
 
-TASK_DIR = '/home/fadi/Desktop/wooga/tools-developer-task-master'
+TASK_DIR = os.path.abspath(os.curdir) + '/tools-developer-task-master'
 
 
 def crop_thumbnails():
@@ -15,9 +14,10 @@ def crop_thumbnails():
     if not os.path.exists(build_background_dir):
         os.makedirs(build_background_dir)
     for key in background_images_dict:
-        # TODO run woogac on the image then append it as the keyname-background.jpg
-        subprocess.call(['sh', './home/fadi/Desktop/wooga/tools-developer-task-master.sh'])
-        os.system(TASK_DIR + 'bin/linux/')
+        call_with_args = "./woogac crop --width 200 --height 200 --format jpg %s " % background_images_dict[key]
+        #os.system(call_with_args)
+        # TODO might not be needed after solving the issue with running woogac and understanding how export works
+        # # --output-dir export
         Path(build_background_dir + '/' + key + '-' + 'background.jpg').touch()
 
 
