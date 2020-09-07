@@ -13,8 +13,8 @@ def crop_thumbnails():
             background_images_dict[entry.name] = entry.path + '/scene/background.png'
     if not os.path.exists(build_background_dir):
         os.makedirs(build_background_dir)
-    for key in background_images_dict:
-        call_with_args = "./woogac crop --width 200 --height 200 --format jpg %s " % background_images_dict[key]
+    for key, value in background_images_dict.items():
+        call_with_args = "./woogac crop --width 200 --height 200 --format jpg %s " % value
         #os.system(call_with_args)
         # TODO might not be needed after solving the issue with running woogac and understanding how export works
         # # --output-dir export
